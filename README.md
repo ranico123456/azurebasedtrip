@@ -91,9 +91,7 @@ used             static web hosting
                  blob storage 
                  storage Account
 
-Future ready   : 1) Rani C O
+Future ready   : 1) Rani CO  2) Bhavana Padadayya Pyatimath  3) Bhagya Devaraj Biradar
 talent Project   
-done by          2) Bhavana Padadayya Pyatimath
-                 
-                 3) Bhagya Devaraj Biradar
-
+done by                         
+                
