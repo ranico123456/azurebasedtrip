@@ -79,13 +79,18 @@ Fuctions       : 1) Travel Planning: A "Go Trip" webpage could potentially provi
                     
 Project Screenshots:
 
-![Home](https://github.com/ranico123456/azurebasedtrip/assets/149654932/df8c2b68-d8b4-44c2-98b1-7b53512df3c5)
+![contact](https://github.com/ranico123456/azurebasedtrip/assets/149654932/df8c2b68-d8b4-44c2-98b1-7b53512df3c5)
+*This page allows us to book trip plans *
 ![Explore](https://github.com/ranico123456/azurebasedtrip/assets/149654932/4b43438b-6c32-48ac-bc65-9ffc4e179341)
+*here you can get insurance and services*
 ![Contact us](https://github.com/ranico123456/azurebasedtrip/assets/149654932/3be2bc18-cb5d-42cd-b6ad-d00433a0b1e5)
+*Here we can get your quick contact access*
 ![About](https://github.com/ranico123456/azurebasedtrip/assets/149654932/a5e22e5f-0e44-49ce-a513-ed809fe383d2)
+*Here we can explore our trip options*
 ![Explore](https://github.com/ranico123456/azurebasedtrip/assets/149654932/7f5b7212-9e05-4b79-a8f0-dd31e8e947bd)
-![About](https://github.com/ranico123456/azurebasedtrip/assets/149654932/807e5a03-e3ca-4c21-9bcb-6b899f848abe)
+*here we get more trip option*
 ![Home](https://github.com/ranico123456/azurebasedtrip/assets/149654932/e15727f3-ede5-4f66-8b2b-9b40d7f25a3b)
+*This is about home page*
 
 
 Technolgies    : Containers
@@ -95,9 +100,9 @@ used             static web hosting
                  blob storage 
                  storage Account
 
-Future ready   : 1) Rani CO  2) Bhavana Padadayya Pyatimath  3) Bhagya Devaraj Biradar
+Future ready   : 1) Rani CO  2) Bhavana Padadayya Pyatimath![Screenshot (12)](https://github.com/ranico123456/azurebasedtrip/assets/149654932/7e3fe46c-e3c0-4aae-a50d-68283added64)
+  3) Bhagya Devaraj Biradar
 talent Project   
 done by                         
                 
 
-![Screenshot (10)](https://github.com/ranico123456/azurebasedtrip/assets/149654932/e15727f3-ede5-4f66-8b2b-9b40d7f25a3b)
