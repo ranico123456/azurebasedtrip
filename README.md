@@ -79,6 +79,8 @@ Fuctions       : 1) Travel Planning: A "Go Trip" webpage could potentially provi
                     
 Project Screenshots:
 
+![Home](https://github.com/ranico123456/azurebasedtrip/assets/149654932/e15727f3-ede5-4f66-8b2b-9b40d7f25a3b)
+*This is about home page*
 ![contact](https://github.com/ranico123456/azurebasedtrip/assets/149654932/df8c2b68-d8b4-44c2-98b1-7b53512df3c5)
 *This page allows us to book trip plans *
 ![Explore](https://github.com/ranico123456/azurebasedtrip/assets/149654932/4b43438b-6c32-48ac-bc65-9ffc4e179341)
@@ -89,8 +91,7 @@ Project Screenshots:
 *Here we can explore our trip options*
 ![Explore](https://github.com/ranico123456/azurebasedtrip/assets/149654932/7f5b7212-9e05-4b79-a8f0-dd31e8e947bd)
 *here we get more trip option*
-![Home](https://github.com/ranico123456/azurebasedtrip/assets/149654932/e15727f3-ede5-4f66-8b2b-9b40d7f25a3b)
-*This is about home page*
+
 
 
 Technolgies    : Containers
